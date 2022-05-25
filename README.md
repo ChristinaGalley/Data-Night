@@ -1,5 +1,4 @@
-# Final_Project
-Group Name: Data Night
+# Data Night
 
 Group Members: Brian Stoffel, Jasmin Pattschull, Tracy Atienza, Christina Galley, Niu Rabiu
 
